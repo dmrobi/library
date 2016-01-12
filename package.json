@@ -1,0 +1,23 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "Library Mangement System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Library",
+    "Management",
+    "System",
+    "Angular",
+    "Express",
+    "Node",
+    "JS"
+  ],
+  "author": "Robiul Islam Robi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
