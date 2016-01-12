@@ -1,0 +1,30 @@
+{
+  "name": "library",
+  "description": "Library Mangement System",
+  "main": "index.js",
+  "authors": [
+    "Robiul Islam Robi"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Library",
+    "Management",
+    "System",
+    "Express",
+    "Node",
+    "JS"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "font-awesome": "~4.5.0"
+  }
+}
